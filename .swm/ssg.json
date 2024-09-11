@@ -2,6 +2,7 @@
   "generator": "docusaurus",
   "url": "https://swimm-demo.github.io/sentry-demo-1/",
   "docs": {
+    "overview.sw.md": "",
     "handling-check-ins-flow.ly1x8ayv.sw.md": "Docs",
     "exporting-data-to-an-encrypted-tarball.3pxpc311.sw.md": "Docs",
     "understanding-dynamic-sampling-tasks.u6fifefx.sw.md": "Docs",
@@ -314,7 +315,7 @@
     "getting-started-with-rest-framework-serializers.dw6yj5ya.sw.md": "Docs",
     "gathering-release-attributes.9dg21b6z.sw.md": "Docs",
     "initiating-vsts-subscription-check.v5q2m4cv.sw.md": "Docs",
-    "overview.qodsjzya.sw.md": "Docs",
+
     "openai-integration.7qyrvjk8.sw.md": "Docs",
     "user-import-process.g48p08m8.sw.md": "Docs",
     "processing-a-single-message-flow.ihybh8cb.sw.md": "Docs",
