@@ -11,56 +11,6 @@ graph TD;
  6lcos(Static Files) --> nekr4(Application Modules)
 ```
 
-### Languages
-
-&nbsp;
-
-### Overview
-
-- Total component: 17
-- High Priority components: 4
-
-### Component Priority matrix
-
-| Component Name | Type   | Complexity (1-10) | Change Frequency | Modernization Priority | Key Dependencies       | Notes                     |
-| -------------- | ------ | ----------------- | ---------------- | ---------------------- | ---------------------- | ------------------------- |
-| Auth Service   | Module | 7                 | Weekly           | High                   | User DB, External Auth | Needs security audit      |
-| Data Processor | Class  | 5                 | Monthly          | Medium                 | File Storage           | Consider parallelizing    |
-| API Gateway    | Module | 8                 | Daily            | High                   | All Services           | Bottleneck, needs scaling |
-| ...            | ...    | ...               | ...              | ...                    | ...                    | ...                       |
-
-## High Priority Actions
-
-1. \[Action Item 1\]
-
-2. \[Action Item 2\]
-
-3. \[Action Item 3\]
-
-### Recent Changes
-
-- \[Date\]: \[Significant change or decision\]
-- \[Date\]: \[Significant change or decision\]
-- \[Date\]: \[Significant change or decision\]
-
-## Edge Cases and Risks
-
-- \[Component Name\]: \[Description of edge case or risk\]
-
-- \[Component Name\]: \[Description of edge case or risk\]
-
-- \[Component Name\]: \[Description of edge case or risk\]
-
-## Next Steps
-
-1. \[Next step 1\]
-
-2. \[Next step 2\]
-
-3. \[Next step 3\]
-
-&nbsp;
-
 ### Application Modules
 
 Application modules are distinct components within an application that encapsulate specific functionality or features. They help in organizing the codebase into manageable sections, making it easier to maintain and scale. Each module typically contains related code, such as models, views, and controllers, and can be independently developed and tested.
